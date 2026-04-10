@@ -1,0 +1,2 @@
+UAT: uipath-invoice-bot STAGE
+Status: PENDING APPROVAL
